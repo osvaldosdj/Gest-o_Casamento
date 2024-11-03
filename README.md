@@ -18,8 +18,7 @@ Sistema de Gestão para Casamentos
 
 
 ## ✔️ :books:  Imagens
-![abrir_horarios](https://github.com/osvaldosdj/PSW10/assets/31571091/e44d76bd-28e2-4343-bd90-ac3e2269c856)
-
-![area_paciente](https://github.com/osvaldosdj/PSW10/assets/31571091/9f4b648d-9520-42f9-8750-9a16961e655b)
-
-![area_medicos](https://github.com/osvaldosdj/PSW10/assets/31571091/ac3a1bd6-5a12-4660-ac61-8d8f4186e1c9)
+![noivos_](https://github.com/user-attachments/assets/6bbebdcb-35c3-44e3-a548-6873495166b3)
+![convidados_](https://github.com/user-attachments/assets/d735956d-45df-4413-a8c0-2dd3995d2b6c)
+![acompanhante_](https://github.com/user-attachments/assets/da48f40f-67c4-43d7-96e4-b4e5b3057b2a)
+![alerta_acompanhante_](https://github.com/user-attachments/assets/45359aeb-c8ff-4942-a334-f8b9cef08d40)
